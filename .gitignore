@@ -1,0 +1,7 @@
+# IDE data
+.vs
+
+# build artifacts
+.env
+build*
+out
